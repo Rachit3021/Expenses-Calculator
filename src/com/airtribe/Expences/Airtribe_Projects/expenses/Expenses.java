@@ -136,7 +136,7 @@ class ExpenseTracker {
      class Activity {
 
          public static void main(String[] args) {
-             ExpenseTracker et= new ExpenseTracker();
+             ExpenseTracker et = new ExpenseTracker();
              et.setup();
 
 
